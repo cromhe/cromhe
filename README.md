@@ -8,13 +8,16 @@
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### stats
-![cromhe's git stats](https://github-readme-stats.vercel.app/api?username=nghiengamesimulator-coder&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghiengamesimulator-coder&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
  ### contact
  nghiengamesimulator@gmail.com
+
+
+
+
+
+
+
+ 
  > [!NOTE]
 > im not gay
 <!--
