@@ -15,8 +15,6 @@
 
  ### contact
  nghiengamesimulator@gmail.com
- discord.gg/lanyard
- discord.gg/discorddev
 <!--
 **nghiengamesimulator-coder/nghiengamesimulator-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
