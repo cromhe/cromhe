@@ -4,19 +4,15 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=25&duration=3500&pause=500&color=54e0e7&center=true&vCenter=true&width=500&lines=yo,+it's+ur_name;just+a+dev+lol;roblox+scripter;discord+bot+maker;sleep+deprived" alt="typing svg" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=25&duration=3500&pause=500&color=54e0e7&center=true&vCenter=true&width=500&lines=yo,+its+crome;just+a+dev+:/;roblox+scripter;discord+bot+maker;sleep+deprived" alt="typing svg" />
   </a>
-</div>
-
-<div align="center">
-  <img src="LINK_ANH_TERMINAL_HOAC_GIF" alt="terminal" width="600" />
 </div>
 
 <br />
 
 <div align="center">
-  just coding stuff whenever i feel like it. <br />
-  bug fixer by day, gamer by night. <br />
+  just coding stuff whenever i feel like it <br />
+  bug fixer by day, sleeper by night. <br />
   hmu if u need something cool.
 </div>
 
@@ -25,7 +21,7 @@
 ### main stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,js,nodejs,python,blender,html,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=lua,js,nodejs,python,blender,html,vscode,github,tiktok,robloxstudio,mongodb" />
   </a>
 </div>
 
@@ -57,5 +53,5 @@
 > <a href="skibddodod">dl my resume here ig</a>
 
 <div align="center">
-  <img width="100%" src="LINK_ANH_FOOTER_CUA_ONG" alt="footer" />
+  <img width="100%" src="https://i.pinimg.com/originals/82/f3/3c/82f33c83e658969547fbce1afda7c1b5.gif" alt="footer" />
 </div>
