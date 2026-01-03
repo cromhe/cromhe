@@ -1,5 +1,5 @@
 # yo, im cromhe
-***im was born at 23/10/2006***
+***im was born at 23/10/2010***
 
 > im from vn and im make some fun code !
 
